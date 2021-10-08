@@ -68,6 +68,8 @@ S3_AUTH_DETECT = [
     '.sa-east-1',
     '-us-east-1',
     '.us-east-1',
+    '-us-gov-east-1',
+    '.us-gov-east-1',
     '-us-gov-west-1',
     '.us-gov-west-1',
     '-us-west-1',

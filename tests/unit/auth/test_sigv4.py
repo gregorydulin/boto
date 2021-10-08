@@ -555,6 +555,7 @@ def test_s3_sigv2_default():
         'external-1',
         'sa-east-1',
         'us-east-1',
+        'us-gov-east-1',
         'us-gov-west-1',
         'us-west-1',
         'us-west-2'
